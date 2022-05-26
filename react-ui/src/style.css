@@ -1,0 +1,42 @@
+@import url('https://cdn.syncfusion.com/ej2/bootstrap5.css');
+
+a {
+     margin: 0;
+     padding: 0;
+}
+
+* {
+     margin: 0% !important;
+}
+
+.e-spreadsheet {
+     height: 10px !important;
+}
+
+.e-sheet:not(.e-frozen-rows) {
+     height: 84vh !important;
+}
+
+.e-sheet-panel {
+     height: 85.5vh !important;
+     width: 100vw !important;
+}
+
+.e-spreadsheet .e-ribbon {
+
+     display: none !important;
+     margin-top: 100px !important;
+
+}
+
+.css-mhc70k-MuiGrid-root>.MuiGrid-item {
+     padding: 0%;
+}
+
+.css-kvip5o-MuiToolbar-root {
+     background-color: #FFE3A9;
+}
+
+.e-spreadsheet:not(.e-mobile-view) .e-formula-bar-panel {
+     margin-top: 10px !important;
+}
